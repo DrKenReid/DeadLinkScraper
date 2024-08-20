@@ -62,7 +62,7 @@ The script generates two CSV files in the Google Drive folder:
 ## Limitations
 
 - The script is designed to run in Google Colab for easy Google Drive integration. Modifications may be needed for local use.
-- It respects the 'robots.txt' file by default. Ensure you have permission to scan the target website.
+- It doesn't consider the 'robots.txt' file. Ensure you have permission to scan the target website.
 - Large websites may take a considerable amount of time to scan completely.
 
 ## Contributing
