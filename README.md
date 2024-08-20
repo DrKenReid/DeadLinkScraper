@@ -27,7 +27,7 @@ This Python script is designed to scan websites for dead links (broken URLs) and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/website-deadlink-scraper.git
+   git clone https://github.com/DrKenReid/website-deadlink-scraper.git
    ```
 2. Install required packages:
    ```
@@ -67,7 +67,7 @@ The script generates two CSV files in the Google Drive folder:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/website-deadlink-scraper/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/DrKenReid/website-deadlink-scraper/issues) if you want to contribute.
 
 ## License
 
